@@ -1,16 +1,16 @@
 ---
-title: Home
+title: Erle Zhu's Homepage
 ---
 
 <section class="profile">
   <img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Wish you happy all the time!">
   <div>
-    <h1>Erle Zhu</h1>
+    <h1>Wish you happy!</h1>
     <p class="subtitle">PhD Student, Department of Computer Science and Technology, Tsinghua University</p>
     <p class="bio">
       I am a PhD student at Tsinghua University and a member of the CoAI research group.
       My research focuses on building generalizable foundation agents that can perceive and interact with the world.
-      I am currently working on agents in digital worlds, advancing CLI-Agent with Reinforcement Learning.
+      I am currently working on agents in digital world, advancing CLI-Agent with Reinforcement Learning.
     </p>
     <p class="links">
       <a href="mailto:erlerzhu@gmail.com">Email</a>
@@ -21,18 +21,27 @@ title: Home
 </section>
 
 <section>
-  <h2>Education</h2>
+  <h2>News</h2>
   <ul>
-    <li><strong>Ph.D. in Computer Science</strong>, Tsinghua University</li>
-    <li><strong>Bachelor in Fundamental Sciences of Mathematics and Physics</strong>, Tsinghua University</li>
+    <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue. 😭</li>
+    <li>April 2026: Our paper CROPI has been accepted to ICLR 2026. See you in San Diego.</li>
+    <li>March 2026: We released PhD-Zero, a skill-based research agent that excels at AI research.</li>
   </ul>
 </section>
 
 <section>
-  <h2>Papers</h2>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>Ph.D. in Computer Science (2024-)</strong>, Tsinghua University</li>
+    <li><strong>Bachelor in Fundamental Sciences of Mathematics and Physics (2020-2024) </strong>, Tsinghua University</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Publications</h2>
   <ol class="paper-list">
     <li>
-      <strong>(CROPI) Data-Efficient RLVR via Off-Policy Influence Guidance</strong><br>
+      <strong>CROPI: Data-Efficient RLVR via Off-Policy Influence Guidance</strong><br>
       <span>Erle Zhu*, Dazhi Jiang*, Yuan Wang, Xujun Li, Jiale Cheng, Yuxian Gu, Yilin Niu, Aohan Zeng, Jie Tang, Minlie Huang, Hongning Wang</span><br>
       <em>ACL 2026 (Main)</em>
       <span class="paper-links">
