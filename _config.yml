@@ -1,6 +1,6 @@
 title: Erle Zhu
 email: erlerzhu@gmail.com
-description: Personal homepage of Erle Zhu, PhD student at Tsinghua University.
+description: Personal homepage of Erle Zhu.
 baseurl: ""
 url: ""
 markdown: kramdown
@@ -16,11 +16,6 @@ defaults:
       path: ""
     values:
       layout: page
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
 
 author:
   name: Erle Zhu
@@ -28,9 +23,3 @@ author:
   affiliation: Tsinghua University
   scholar: https://scholar.google.com/citations?user=z5GT6QsAAAAJ&hl=zh-CN
   github: https://github.com/Lez-3f
-
-navigation:
-  - title: Home
-    url: /
-  - title: Blog
-    url: /blog/

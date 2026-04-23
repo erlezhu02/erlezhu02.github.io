@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace }}">
+    <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
@@ -12,13 +13,7 @@
       <header class="site-header">
         <div>
           <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-          <p class="site-tagline">PhD student in Computer Science at Tsinghua University, working on foundation agents and reinforcement learning.</p>
         </div>
-        <nav class="site-nav" aria-label="Primary navigation">
-          {% for item in site.navigation %}
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-          {% endfor %}
-        </nav>
       </header>
 
       <main class="page-content">
@@ -26,7 +21,7 @@
       </main>
 
       <footer class="site-footer">
-        <p>© {{ site.time | date: '%Y' }} {{ site.title }}. Built for GitHub Pages with Markdown blog support.</p>
+        <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
       </footer>
     </div>
   </body>
