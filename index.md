@@ -17,6 +17,8 @@ title: Erle Zhu's Homepage
       <a href="mailto:erlerzhu@gmail.com">Email</a>
       <a href="https://github.com/Lez-3f">GitHub</a>
       <a href="https://scholar.google.com/citations?user=z5GT6QsAAAAJ&hl=zh-CN">Google Scholar</a>
+      <a href="https://x.com/erler_z">Twitter(X)</a>
+      <a href="https://www.xiaohongshu.com/user/profile/61179d360000000001001886">Xiaohongshu</a>
     </p>
   </div>
 </section>
