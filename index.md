@@ -36,7 +36,7 @@ title: Erle Zhu's Homepage
   <h2>Education</h2>
   <ul>
     <li><strong>Ph.D. in Computer Science (2024-)</strong>, Tsinghua University</li>
-    <li><strong>Bachelor in Fundamental Sciences of Mathematics and Physics (2020-2024) </strong>, Tsinghua University</li>
+    <li><strong>Bachelor in Mathematics & Physics (2020-2024) </strong>, Tsinghua University</li>
   </ul>
 </section>
 
