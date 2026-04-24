@@ -11,6 +11,7 @@ title: Erle Zhu's Homepage
       I am a PhD student at Tsinghua University and a member of the CoAI research group.
       My research focuses on building generalizable foundation agents that can perceive and interact with the world.
       I am currently working on agents in digital world, advancing CLI-Agent with Reinforcement Learning.
+      I also worked on data-efficient RLVR (CROPI) and scientific agent (MAPS) before.
     </p>
     <p class="links">
       <a href="mailto:erlerzhu@gmail.com">Email</a>
@@ -23,7 +24,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>News</h2>
   <ul>
-    <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue. 😭</li>
+    <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue😭. I'm using erlezhu02 as a temporary account.</li>
     <li>April 2026: Our paper CROPI has been accepted to ICLR 2026. See you in San Diego.</li>
     <li>March 2026: We released PhD-Zero, a skill-based research agent that excels at AI research.</li>
   </ul>
