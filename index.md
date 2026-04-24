@@ -3,9 +3,10 @@ title: Erle Zhu's Homepage
 ---
 
 <section class="profile">
-  <img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Erle Zhu">
+  <img class="profile-photo" src="{{ '/assets/images/profile-enhanced.jpg' | relative_url }}" alt="Erle Zhu">
   <div>
-    <h1>Erle Zhu</h1>
+    <h1>Erle Zhu | Allen</h1>
+    <p class="subtitle">Chinese Name: 祝尔乐 (meaning: wish you happy)</p>
     <p class="subtitle">PhD Student, Department of Computer Science and Technology, Tsinghua University</p>
     <p class="bio">
       I am a PhD student at Tsinghua University and a member of the CoAI research group.
@@ -113,6 +114,6 @@ title: Erle Zhu's Homepage
     <li>Teaching Assistant: LLM Summer School 2024; Linear Algebra, Fall 2024; Introduction to AI, Spring 2026</li>
     <li>Reviewer: NeurIPS 2024, NeurIPS 2025</li>
     <li>Minister, Academic Department, Student Association of Science and Technology, Weiyang College, Tsinghua University</li>
-    <li>Talk: Tutorials of Weiyang City Competition, Lecture 2 on Machine Learning</li>
+    <!-- <li>Talk: Tutorials of Weiyang City Competition, Lecture 2 on Machine Learning</li> -->
   </ul>
 </section>
