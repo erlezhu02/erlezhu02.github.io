@@ -3,9 +3,9 @@ title: Erle Zhu's Homepage
 ---
 
 <section class="profile">
-  <img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Wish you happy all the time!">
+  <img class="profile-photo" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Erle Zhu">
   <div>
-    <h1>Wish you happy!</h1>
+    <h1>Erle Zhu</h1>
     <p class="subtitle">PhD Student, Department of Computer Science and Technology, Tsinghua University</p>
     <p class="bio">
       I am a PhD student at Tsinghua University and a member of the CoAI research group.
