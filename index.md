@@ -27,7 +27,7 @@ title: Erle Zhu's Homepage
   <h2>News</h2>
   <ul>
     <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue😭. I'm using erlezhu02 as a temporary account.</li>
-    <li>April 2026: Our paper CROPI has been accepted to ICLR 2026. See you in San Diego.</li>
+    <li>April 2026: Our paper CROPI has been accepted to ACL 2026. See you in San Diego.</li>
     <li>March 2026: We released PhD-Zero, a skill-based research agent that excels at AI research.</li>
   </ul>
 </section>
