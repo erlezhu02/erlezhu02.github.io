@@ -6,6 +6,14 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace }}">
     <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <script>
+      (function () {
+        var storedTheme = localStorage.getItem("theme");
+        if (storedTheme === "light" || storedTheme === "dark") {
+          document.documentElement.setAttribute("data-theme", storedTheme);
+        }
+      })();
+    </script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
@@ -14,6 +22,10 @@
         <div>
           <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         </div>
+        <button class="theme-toggle" type="button" aria-label="Toggle color theme">
+          <span class="theme-toggle-dark">Dark</span>
+          <span class="theme-toggle-light">Light</span>
+        </button>
       </header>
 
       <main class="page-content">
@@ -24,5 +36,31 @@
         <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
       </footer>
     </div>
+    <script>
+      (function () {
+        var root = document.documentElement;
+        var button = document.querySelector(".theme-toggle");
+
+        function currentTheme() {
+          return root.getAttribute("data-theme") || "dark";
+        }
+
+        function syncButton() {
+          if (!button) return;
+          button.setAttribute("data-theme", currentTheme());
+        }
+
+        if (button) {
+          button.addEventListener("click", function () {
+            var nextTheme = currentTheme() === "dark" ? "light" : "dark";
+            root.setAttribute("data-theme", nextTheme);
+            localStorage.setItem("theme", nextTheme);
+            syncButton();
+          });
+        }
+
+        syncButton();
+      })();
+    </script>
   </body>
 </html>
