@@ -80,7 +80,7 @@ title: Erle Zhu's Homepage
     <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5 Series</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
     <li><a href="https://github.com/THUDM/slime"><strong>Slime</strong></a>: contributed to asynchronous RL training infrastructure for agentic post-training. </li>
-    <li><a href="https://yuketang.tsinghua.edu.cn/ai"><strong>THU-AI4EDU</strong></a>: led educational agent work for circuit theory and programming at Tsinghua University. currently renamed as https://aicosmos.ai.</li>
+    <li><a href="https://yuketang.tsinghua.edu.cn/ai"><strong>THU-AI4EDU</strong></a>: led educational agent work for circuit theory and programming at Tsinghua University.</li>
     <!-- <li><a href="https://github.com/GJCav/thuwy"><strong>WeiWeiYang</strong></a>: built backend support for email and message notification features.</li>
     <li><a href="https://github.com/Lez-3f/THU-EDC2021-BugCar"><strong>EDC-BugCar</strong></a>: contributed control algorithms; team won third prize in THU-EDC.</li> -->
   </ul>
@@ -93,6 +93,9 @@ title: Erle Zhu's Homepage
       <strong>RL Data Selection and Scaling for Complex LLM Task Scenarios</strong><br>
       April 23, 2026, Generative AI Conference, Beijing - LLM RL Workshop<br>
       <a href="{{ '/assets/talks/260422-zxx-genai-rl-data-slides.pptx' | relative_url }}">Slides</a>
+      <span class="talk-links">
+        <a href="{{ '/assets/talks/260422-genai-conf-talk-photo.JPG' | relative_url }}">Photo</a>
+      </span>
     </li>
   </ul>
 </section>
