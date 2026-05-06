@@ -193,6 +193,49 @@ em {
   text-align: center;
 }
 
+.visitor-panel {
+  margin-bottom: 24px;
+  padding-top: 8px;
+  text-align: left;
+}
+
+.visitor-panel h2 {
+  margin-top: 0;
+}
+
+.visitor-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 16px;
+}
+
+.visitor-card {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  padding: 16px;
+}
+
+.visitor-label {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.visitor-metric {
+  margin: 8px 0;
+  color: var(--ink);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.visitor-map {
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width: 680px) {
   .site-shell {
     padding: 24px 14px;
@@ -205,6 +248,10 @@ em {
 
   .page-content {
     padding: 22px;
+  }
+
+  .visitor-grid {
+    grid-template-columns: 1fr;
   }
 
   .profile {

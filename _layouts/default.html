@@ -33,6 +33,26 @@
       </main>
 
       <footer class="site-footer">
+        <section class="visitor-panel" aria-labelledby="visitors-heading">
+          <h2 id="visitors-heading">Visitors</h2>
+          <div class="visitor-grid">
+            <div class="visitor-card">
+              <p class="visitor-label">Site statistics</p>
+              <p class="visitor-metric">Views <span id="busuanzi_value_site_pv">-</span></p>
+              <p class="visitor-metric">Visitors <span id="busuanzi_value_site_uv">-</span></p>
+            </div>
+            <div class="visitor-card visitor-map-card">
+              <p class="visitor-label">Visitor map</p>
+              <div class="visitor-map">
+                <script id="_wauvt9">
+                  var _wau = _wau || [];
+                  _wau.push(["map", "ssyvjc8jlu", "vt9", "300", "180", "night", "cross-pink"]);
+                </script>
+                <script async src="//waust.at/m.js"></script>
+              </div>
+            </div>
+          </div>
+        </section>
         <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
       </footer>
     </div>
@@ -60,6 +80,24 @@
         }
 
         syncButton();
+      })();
+    </script>
+    <script>
+      (async function () {
+        try {
+          var res = await fetch("https://bsz.saop.cc/api", {
+            method: "POST",
+            credentials: "include",
+            headers: { "x-bsz-referer": location.href }
+          });
+          var payload = await res.json();
+          if (payload && payload.success && payload.data) {
+            document.getElementById("busuanzi_value_site_pv").textContent = payload.data.site_pv;
+            document.getElementById("busuanzi_value_site_uv").textContent = payload.data.site_uv;
+          }
+        } catch (error) {
+          console.error("Visitor stats unavailable", error);
+        }
       })();
     </script>
   </body>
