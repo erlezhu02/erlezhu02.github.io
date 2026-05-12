@@ -27,6 +27,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>News</h2>
   <ul>
+    <li>May 2026: Our paper Skill-Evolver on online learning for CLI-Agent (with meta-skill) has been released on arXiv, checkout <a href="https://arxiv.org/html/2605.10500v1">the paper</a>.</li>
     <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue😭. I'm using <a href="https://github.com/erlezhu02/">erlezhu02</a> as a temporary account.</li>
     <li>April 2026: Our paper CROPI has been accepted to ACL 2026. See you in San Diego.</li>
     <li>March 2026: We released PhD-Zero, a skill-based research agent that excels at AI research.</li>
@@ -44,6 +45,14 @@ title: Erle Zhu's Homepage
 <section>
   <h2>Publications</h2>
   <ol class="paper-list">
+    <li>
+      <strong>SkillEvolver: Skill Learning as a Meta-Skill</strong><br>
+      <span>Genrui Zhang*, Erle Zhu*, Jinfeng Zhou, Caiyan Jia, Hongning Wang</span><br>
+      <em>arXiv 2026</em>
+      <span class="paper-links">
+        <a href="https://arxiv.org/html/2605.10500v1">paper</a>
+      </span>
+    </li>
     <li>
       <strong>CROPI: Data-Efficient RLVR via Off-Policy Influence Guidance</strong><br>
       <span>Erle Zhu*, Dazhi Jiang*, Yuan Wang, Xujun Li, Jiale Cheng, Yuxian Gu, Yilin Niu, Aohan Zeng, Jie Tang, Minlie Huang, Hongning Wang</span><br>

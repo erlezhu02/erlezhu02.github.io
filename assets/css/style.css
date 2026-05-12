@@ -236,6 +236,13 @@ em {
   justify-content: center;
 }
 
+.visitor-note {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 @media (max-width: 680px) {
   .site-shell {
     padding: 24px 14px;
