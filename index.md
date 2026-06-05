@@ -63,8 +63,8 @@ title: Erle Zhu's Homepage
         <a href="{{ '/assets/posters/acl-2026-poster-cropi.pptx' | relative_url }}">poster</a>
       </span>
       <video controls preload="metadata" style="display:block; width:100%; max-width:480px; margin-top:0.5em;">
-        <source src="{{ '/assets/posters/acl26-cropi-pre-recording.mov' | relative_url }}" type="video/mp4">
-        Your browser does not support embedded video. <a href="{{ '/assets/posters/acl26-cropi-pre-recording.mov' | relative_url }}">Download the poster video</a>.
+        <source src="{{ '/assets/videos/acl26-cropi-pre-recording.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support embedded video. <a href="{{ '/assets/videos/acl26-cropi-pre-recording.mp4' | relative_url }}">Download the poster video</a>.
       </video>
     </li>
     <li>
