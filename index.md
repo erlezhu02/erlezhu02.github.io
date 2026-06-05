@@ -60,7 +60,12 @@ title: Erle Zhu's Homepage
       <span class="paper-links">
         <a href="https://arxiv.org/abs/2510.26491">paper</a>
         <a href="https://github.com/thu-coai/CROPI">code</a>
+        <a href="{{ '/assets/posters/acl-2026-poster-cropi.pptx' | relative_url }}">poster</a>
       </span>
+      <video controls preload="metadata" style="display:block; width:100%; max-width:480px; margin-top:0.5em;">
+        <source src="{{ '/assets/posters/acl26-cropi-pre-recording.mov' | relative_url }}" type="video/mp4">
+        Your browser does not support embedded video. <a href="{{ '/assets/posters/acl26-cropi-pre-recording.mov' | relative_url }}">Download the poster video</a>.
+      </video>
     </li>
     <li>
       <strong>MAPS: Advancing Multi-Modal Reasoning in Expert-level Physical Science</strong><br>
@@ -86,6 +91,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>Projects</h2>
   <ul>
+    <li><strong>GLM5.1</strong>: I led the SFT and RL data synthesis pipeline for terminal Agent (Terminal-Bench).</li>
     <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5 Series</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
     <li><a href="https://github.com/THUDM/slime"><strong>Slime</strong></a>: contributed to asynchronous RL training infrastructure for agentic post-training. </li>
