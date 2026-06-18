@@ -27,6 +27,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>News</h2>
   <ul>
+    <li>June 2026: Our blog on <a href="https://z.ai/blog/glm-5.2">GLM 5.2</a> has been released. Check out our recipe for long-horizon RL.</li>
     <li>May 2026: Our paper Skill-Evolver on online learning for CLI-Agent (with meta-skill) has been released on arXiv, checkout <a href="https://arxiv.org/html/2605.10500v1">the paper</a>.</li>
     <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue😭. I'm using <a href="https://github.com/erlezhu02/">erlezhu02</a> as a temporary account.</li>
     <li>April 2026: Our paper CROPI has been accepted to ACL 2026. See you in San Diego.</li>
@@ -91,6 +92,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>Projects</h2>
   <ul>
+    <li><strong>GLM 5.2</strong>: I led RL data construction for GLM 5.2 in terminal coding scenarios, contributed to CLI-agent RL infrastructure and parameter tuning, and built data that helped raise performance on Terminal-Bench from 63 to 80 and on ProgramBench from 51 to 63.</li>
     <li><strong>GLM5.1</strong>: I led the SFT and RL data synthesis pipeline for terminal Agent (Terminal-Bench).</li>
     <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5 Series</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
