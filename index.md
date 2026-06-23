@@ -92,7 +92,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>Projects</h2>
   <ul>
-    <li><strong>GLM 5.2</strong>: I led RL data construction for GLM 5.2 in terminal coding scenarios, contributed to CLI-agent RL infrastructure and parameter tuning, and built data that helped raise performance on Terminal-Bench from 63 to 80 and on ProgramBench from 51 to 63.</li>
+    <li><strong>GLM 5.2</strong>: I led RL data construction for GLM 5.2 in terminal coding scenarios, contributed to CLI-agent RL infrastructure and training verification. Our built data significantly improved GLM5.2 coding capabilities, specifically in general terminal use and code repo reconstruction.</li>
     <li><strong>GLM5.1</strong>: I led the SFT and RL data synthesis pipeline for terminal Agent (Terminal-Bench).</li>
     <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5 Series</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
