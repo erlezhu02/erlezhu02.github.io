@@ -1,7 +1,6 @@
 ---
 title: Erle Zhu's Homepage
 ---
-
 <section class="profile">
   <img class="profile-photo" src="{{ '/assets/images/profile-enhanced.jpg' | relative_url }}" alt="Erle Zhu">
   <div>
@@ -92,9 +91,8 @@ title: Erle Zhu's Homepage
 <section>
   <h2>Projects</h2>
   <ul>
-    <li><strong>GLM 5.2</strong>: I led RL data construction for GLM 5.2 in terminal coding scenarios, contributed to CLI-agent RL infrastructure and training verification. Our built data significantly improved GLM5.2 coding capabilities, specifically in general terminal use and code repo reconstruction.</li>
-    <li><strong>GLM5.1</strong>: I led the SFT and RL data synthesis pipeline for terminal Agent (Terminal-Bench).</li>
-    <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5 Series</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
+    <li><a href="https://z.ai/blog/glm-5.2"><strong>GLM 5.2</strong></a>: I led the SFT & RL data construction for GLM 5.2 in terminal coding scenarios, contributed to CLI-agent RL infrastructure and training verification. Our built data significantly improved GLM5.2 coding capabilities, specifically in general terminal use and code repo reconstruction. </li>
+    <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
     <li><a href="https://github.com/THUDM/slime"><strong>Slime</strong></a>: contributed to asynchronous RL training infrastructure for agentic post-training. </li>
     <li><a href="https://yuketang.tsinghua.edu.cn/ai"><strong>THU-AI4EDU</strong></a>: led educational agent work for circuit theory and programming at Tsinghua University.</li>
