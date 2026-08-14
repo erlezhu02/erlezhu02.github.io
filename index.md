@@ -26,6 +26,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>News</h2>
   <ul>
+    <li>August 2026: <a href="https://z.ai/blog/glm-5.3">GLM 5.3</a>, Z.ai's latest coding and cyber-defense model, has been released.</li>
     <li>June 2026: Our blog on <a href="https://z.ai/blog/glm-5.2">GLM 5.2</a> has been released. Check out our recipe for long-horizon RL.</li>
     <li>May 2026: Our paper Skill-Evolver on online learning for CLI-Agent (with meta-skill) has been released on arXiv, checkout <a href="https://arxiv.org/html/2605.10500v1">the paper</a>.</li>
     <li>April 2026: My original GitHub account, Lez-3f, was suspended due to an unknown issue😭. I'm using <a href="https://github.com/erlezhu02/">erlezhu02</a> as a temporary account.</li>
@@ -91,7 +92,9 @@ title: Erle Zhu's Homepage
 <section>
   <h2>Projects</h2>
   <ul>
-    <li><a href="https://z.ai/blog/glm-5.2"><strong>GLM 5.2</strong></a>: I led the SFT & RL data construction for GLM 5.2 in terminal coding scenarios, contributed to CLI-agent RL infrastructure and training verification. Our built data significantly improved GLM5.2 coding capabilities, specifically in general terminal use and code repo reconstruction. </li>
+    <li><a href="https://z.ai/blog/glm-5.3"><strong>GLM 5.3</strong></a>: contributed to optimizations for Terminal-Bench 3 and Agent's Last Exam.</li>
+    <li><a href="https://z.ai/blog/glm-5.2"><strong>GLM 5.2</strong></a>: led SFT and RL data construction for terminal coding scenarios; improved Terminal-Bench performance; and contributed to CLI-agent RL infrastructure and training verification. These efforts helped make GLM 5.2 the state-of-the-art open-source model at the time, with strong capabilities in general terminal use and code-repository reconstruction.</li>
+    <li><strong>ProgramBench</strong>: optimized evaluation performance and fixed model deployment, container-content backup, and other reliability issues in the evaluation framework.</li>
     <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
     <li><a href="https://github.com/THUDM/slime"><strong>Slime</strong></a>: contributed to asynchronous RL training infrastructure for agentic post-training. </li>
