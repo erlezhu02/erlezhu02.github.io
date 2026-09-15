@@ -2,7 +2,7 @@
 title: Erle Zhu's Homepage
 ---
 <section class="profile">
-  <img class="profile-photo" src="{{ '/assets/images/profile-enhanced.jpg' | relative_url }}" alt="Erle Zhu">
+  <img class="profile-photo" src="{{ '/assets/images/kXt7SuW8_400x400.jpg' | relative_url }}" alt="Erle Zhu">
   <div>
     <h1>Erle Zhu | Allen</h1>
     <p class="subtitle">Chinese Name: 祝尔乐 (meaning: wish you happy)</p>
