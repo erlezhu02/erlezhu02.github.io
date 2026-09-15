@@ -94,7 +94,6 @@ title: Erle Zhu's Homepage
   <ul>
     <li><a href="https://z.ai/blog/glm-5.3"><strong>GLM 5.3</strong></a>: contributed to optimizations for Terminal-Bench 3 and Agent's Last Exam.</li>
     <li><a href="https://z.ai/blog/glm-5.2"><strong>GLM 5.2</strong></a>: led SFT and RL data construction for terminal coding scenarios; improved Terminal-Bench performance; and contributed to CLI-agent RL infrastructure and training verification. These efforts helped make GLM 5.2 the state-of-the-art open-source model at the time, with strong capabilities in general terminal use and code-repository reconstruction.</li>
-    <li><strong>ProgramBench</strong>: optimized evaluation performance and fixed model deployment, container-content backup, and other reliability issues in the evaluation framework.</li>
     <li><a href="https://github.com/zai-org/GLM-5"><strong>GLM5</strong></a>: contributed to agentic RL and data synthesis in terminal-agent scenarios.</li>
     <li><a href="https://github.com/zai-org/GLM-4.5"><strong>GLM4.5 Series</strong></a>: worked on RLHF data pipeline and RL infrastructure for multi-task agentic RL.</li>
     <li><a href="https://github.com/THUDM/slime"><strong>Slime</strong></a>: contributed to asynchronous RL training infrastructure for agentic post-training. </li>
