@@ -26,6 +26,7 @@ title: Erle Zhu's Homepage
 <section>
   <h2>News</h2>
   <ul>
+    <li>September 2026: I wrote a new blog post, <a href="{{ '/blogs/' | relative_url }}">Some Thoughts on the Development of AI</a>.</li>
     <li>August 2026: <a href="https://z.ai/blog/glm-5.3">GLM 5.3</a>, Z.ai's latest coding and cyber-defense model, has been released.</li>
     <li>June 2026: Our blog on <a href="https://z.ai/blog/glm-5.2">GLM 5.2</a> has been released. Check out our recipe for long-horizon RL.</li>
     <li>May 2026: Our paper Skill-Evolver on online learning for CLI-Agent (with meta-skill) has been released on arXiv, checkout <a href="https://arxiv.org/html/2605.10500v1">the paper</a>.</li>
