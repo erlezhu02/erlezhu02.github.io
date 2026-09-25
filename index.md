@@ -69,7 +69,7 @@ title: Erle Zhu's Homepage
     </li>
     <li class="education-experience">
       <strong>2020–2024: Undergraduate Student, Tsinghua University</strong><br>
-      Majored in Mathematics and Physics Science & Electrical Engineering; ranked 2nd out of 30 students in the major.
+      Majored in Mathematics and Physics Science & Electrical Engineering; Major Rank 2/30.
     </li>
   </ul>
 </section>
