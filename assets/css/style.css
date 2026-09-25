@@ -180,7 +180,8 @@ li {
   margin: 8px 0;
 }
 
-.education-experience {
+.education-experience,
+.education-experience strong {
   color: var(--education);
 }
 
