@@ -40,30 +40,34 @@ title: Erle Zhu's Homepage
   <h2>Experience</h2>
   <ul>
     <li>
-      <strong>October 2025–August 2026: Z.AI Coding Agent Team</strong><br>
+      <strong>2025.10–2026.8: Z.AI Coding Agent Team</strong><br>
       Led post-training for terminal-agent scenarios and contributed to AgentRL infrastructure.
     </li>
     <li>
-      <strong>February 2025–October 2025: Z.AI RLHF Team</strong><br>
+      <strong>2025.2–2025.10: Z.AI RLHF Team</strong><br>
       Contributed to improving the instruction-following capabilities of GLM-4.5.
     </li>
     <li>
-      <strong>December 2023–October 2025: Tsinghua AI4Edu Project, now <a href="https://aicosmos.ai/">AIcosmos</a></strong><br>
+      <strong>2023.12–2025.10: Tsinghua AI4Edu Project, now <a href="https://aicosmos.ai/">AIcosmos</a></strong><br>
       Developed agents for programming and circuit design.
     </li>
     <li>
-      <strong>October 2023–October 2024: Z.AI RLHF Team</strong><br>
+      <strong>2023.10–2024.10: Z.AI RLHF Team</strong><br>
       Researched LLM alignment algorithms, including reward design and DPO variants.
     </li>
     <li>
-      <strong>June 2023–July 2023: Research Intern, Energy Internet Research Institute, Tsinghua University</strong><br>
+      <strong>2023.6–2023.7: Research Intern, Energy Internet Research Institute, Tsinghua University</strong><br>
       Conducted data science research on indoor energy consumption.
     </li>
     <li>
-      <strong>July 2022–April 2023: Research Intern, LeapLab</strong><br>
+      <strong>2022.7–2023.4: Research Intern, LeapLab</strong><br>
       Advised by Gao Huang; conducted research on unsupervised reinforcement learning.
     </li>
-    <li>
+    <li class="education-experience">
+      <strong>2024–Present: Ph.D. Student in Computer Science, Tsinghua University</strong><br>
+      Member of the CoAI research group.
+    </li>
+    <li class="education-experience">
       <strong>2020–2024: Undergraduate Student, Tsinghua University</strong><br>
       Majored in Mathematics and Physics Science & Electrical Engineering; ranked 2nd out of 30 students in the major.
     </li>

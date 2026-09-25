@@ -5,6 +5,7 @@
   --line: #2c2c2c;
   --accent: #86d1be;
   --paper: #090909;
+  --education: #f2d98b;
   --serif: Georgia, "Times New Roman", serif;
   --sans: "Avenir Next", "Segoe UI", sans-serif;
 }
@@ -16,6 +17,7 @@
   --line: #ded8ca;
   --accent: #0b5c4a;
   --paper: #fffdf8;
+  --education: #73777d;
 }
 
 * {
@@ -176,6 +178,14 @@ ol {
 
 li {
   margin: 8px 0;
+}
+
+.education-experience {
+  color: var(--education);
+}
+
+.education-experience a {
+  color: inherit;
 }
 
 .paper-list li {
