@@ -37,10 +37,36 @@ title: Erle Zhu's Homepage
 </section>
 
 <section>
-  <h2>Education</h2>
+  <h2>Experience</h2>
   <ul>
-    <li><strong>Ph.D. in Computer Science (2024-)</strong>, Tsinghua University</li>
-    <li><strong>Bachelor in Mathematics & Physics + Electrical Engineering (2020-2024)</strong>, Tsinghua University</li>
+    <li>
+      <strong>October 2025–August 2026: Z.AI Coding Agent Team</strong><br>
+      Led post-training for terminal-agent scenarios and contributed to AgentRL infrastructure.
+    </li>
+    <li>
+      <strong>February 2025–October 2025: Z.AI RLHF Team</strong><br>
+      Contributed to improving the instruction-following capabilities of GLM-4.5.
+    </li>
+    <li>
+      <strong>December 2023–October 2025: Tsinghua AI4Edu Project, now <a href="https://aicosmos.ai/">AIcosmos</a></strong><br>
+      Developed agents for programming and circuit design.
+    </li>
+    <li>
+      <strong>October 2023–October 2024: Z.AI RLHF Team</strong><br>
+      Researched LLM alignment algorithms, including reward design and DPO variants.
+    </li>
+    <li>
+      <strong>June 2023–July 2023: Research Intern, Energy Internet Research Institute, Tsinghua University</strong><br>
+      Conducted data science research on indoor energy consumption.
+    </li>
+    <li>
+      <strong>July 2022–April 2023: Research Intern, LeapLab</strong><br>
+      Advised by Gao Huang; conducted research on unsupervised reinforcement learning.
+    </li>
+    <li>
+      <strong>2020–2024: Undergraduate Student, Tsinghua University</strong><br>
+      Majored in Mathematics and Physics Science & Electrical Engineering; ranked 2nd out of 30 students in the major.
+    </li>
   </ul>
 </section>
 
